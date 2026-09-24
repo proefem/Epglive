@@ -16,16 +16,7 @@
 
 
 
-## 📖 Kullanım
 
-1. Yukarıdaki linklerden istediğinizi kopyalayın
-2. IPTV oynatıcınıza (VLC, IPTV Smarters, Tivimate) ekleyin
-3. Liste güncellendiğinde link **aynı kalır**, içerik otomatik yenilenir
-4. jsDelivr önbelleği 5-30 dakika sürebilir
-
----
-
-_Son güncelleme: 2026-08-28 05:51:30_
 
 ---
 
